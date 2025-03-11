@@ -45,6 +45,6 @@
     <img src="https://img.shields.io/badge/-Portfolio-%2312100E?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 
- ![Snake animation](https://raw.githubusercontent.com/Themarys24/mariaferreira/output/dist/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/Themarys24/mariaferreira/github-contribution-grid-snake.svg)
 
 </div>
