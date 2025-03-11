@@ -1,17 +1,21 @@
+
 ## Hi there 👋 My name is Maria! 🍀 ´◡` 🍀
 
-💡🚀Hello! I’m Maria Ferreira, a Computer Science student transitioning from Accounting to Technology.
+<div align="left">
+  <img src="gift-foto-Maria.gif" width="200" align="right">
+  
+  💡🚀Hello! I’m Maria Ferreira, a Computer Science student transitioning from Accounting to Technology.
 
-Here, I share my learning journey with projects, developing hard skills alongside the soft skills I’ve gained throughout my life. 
-Career transitions are challenging—it's not easy to step out of a comfort zone that you know so well and start learning a new profession from scratch. 
-That’s why every new programming language I learn and every project I challenge myself to develop, is another brick I add to my ladder toward professional excellence, which I am always striving for!
+  Here, I share my learning journey with projects, developing hard skills alongside the soft skills I’ve gained throughout my life.  
+  Career transitions are challenging—it's not easy to step out of a comfort zone that you know so well and start learning a new profession from scratch.  
 
-"It’s never too late to start something new, and I truly believe technology is the future." 🌐 💻💡📚💬
+  That’s why every new programming language I learn and every project I challenge myself to develop, is another brick I add to my ladder toward professional excellence, which I am always striving for!  
 
+  **"It’s never too late to start something new, and I truly believe technology is the future."** 🌐 💻💡📚💬
+</div>
 ---
-<img src="URL_DO_SEU_GIF" width="200">
+<img src="gift foto Maria.gif" width="200">
 ---
-
 
 <div align="center">
   <a href="https://github.com/Themarys24">
@@ -40,4 +44,6 @@ That’s why every new programming language I learn and every project I challeng
   <a href="https://my-portfolio-project-navy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-%2312100E?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+
+ ![Snake animation](https://raw.githubusercontent.com/Themarys24/mariaferreira/output/github-contribution-grid-snake.svg)
 </div>
