@@ -52,9 +52,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="Bean Eater@1x-1.0s-200px-200px.gif">
+</div>
 
-### Fun Animation
-
-<img src="Bean Eater@1x-1.0s-200px-200px.gif">
 
 
