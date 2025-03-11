@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Maria! 🍒 ´◡` 🍒
+## Hi there 👋 My name is Maria! 🍀 ´◡` 🍀
 
 💡🚀Hello! I’m Maria Ferreira, a Computer Science student transitioning from Accounting to Technology.
 
@@ -8,3 +8,6 @@ That’s why every new programming language I learn and every project I challeng
 
 "It’s never too late to start something new, and I truly believe technology is the future." 🌐 💻💡📚💬
 
+"""Find Me: 
+- **LinkedIn:** [(www.linkedin.com/in/maria-ferreira-computer-scienc)
+- **Portfólio:** [(https://www.seuportfólio.com](https://my-portfolio-project-navy.vercel.app/))
