@@ -9,6 +9,9 @@ That’s why every new programming language I learn and every project I challeng
 "It’s never too late to start something new, and I truly believe technology is the future." 🌐 💻💡📚💬
 
 ---
+<img src="URL_DO_SEU_GIF" width="200">
+---
+
 
 <div align="center">
   <a href="https://github.com/Themarys24">
