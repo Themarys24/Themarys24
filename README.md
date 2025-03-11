@@ -8,6 +8,6 @@ That’s why every new programming language I learn and every project I challeng
 
 "It’s never too late to start something new, and I truly believe technology is the future." 🌐 💻💡📚💬
 
-"""Find Me: 
+### 📬 Find Me: 
 - **LinkedIn:** [(www.linkedin.com/in/maria-ferreira-computer-scienc)
-- **Portfólio:** [(https://www.seuportfólio.com](https://my-portfolio-project-navy.vercel.app/))
+- **Portfólio:** [(https://my-portfolio-project-navy.vercel.app/))
