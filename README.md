@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is [Maria]! (:shamrock:´◡`Cherry :shamrock:)
 
 💡🚀Hello! I’m Maria Ferreira, a Computer Science student transitioning from Accounting to Technology.
 
