@@ -1,5 +1,7 @@
 
-![Descrição](MariaFerreira-ezgif.com-video-to-gif-converter.gif)
+<p align="center">
+  <img src="MariaFerreira2-ezgif.com-video-to-gif-converter.gif" alt="Descrição">
+</p>
 
 ---
 
