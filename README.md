@@ -10,12 +10,13 @@
 <div align="left">
   <img src="gift-foto-Maria.gif" width="200" align="right">
   
-  💡🚀Hello! I’m Maria Ferreira, a Computer Science student transitioning from Accounting to Technology.
+  💡🚀Hi! I'm Maria Ferreira, a Cloud Computing student transitioning from Accounting to the Tech world.
 
-  Here, I share my learning journey with projects, developing hard skills alongside the soft skills I’ve gained throughout my life.  
-  Career transitions are challenging, it's not easy to step out of a comfort zone that you know so well and start learning a new profession from scratch.  
+Here I share my learning journey through hands-on projects, developing technical skills while applying the soft skills I've gained throughout my career.
 
-  That’s why every new programming language I learn and every project I challenge myself to develop is another brick I add to my ladder toward professional excellence, which I am always striving for!  
+Career transitions are not easy. Leaving a familiar comfort zone to start from scratch in a new field takes courage, discipline, and passion. Technology has always been my dream, and today I’m building my path to become a Cloud Computing Engineer!
+
+Every programming language I learn and every project I challenge myself with is another step toward reaching my goal. 
 
   **"It’s never too late to start something new, and I truly believe technology is the future."** 🌐 💻💡📚💬
 </div>
