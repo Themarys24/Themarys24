@@ -23,17 +23,6 @@ Every programming language I learn and every project I challenge myself with is 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Themarys24">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Themarys24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Themarys24&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ### Skills
 
 <div align="center">
