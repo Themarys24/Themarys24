@@ -33,7 +33,8 @@ Every programming language I learn and every project I challenge myself with is 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+
 </div>
 
 ---
